@@ -1,21 +1,59 @@
 <h1 align="center">Hi 👋, I'm Cliftion</h1>
-<h3 align="center">A passionate Data Scientist from Thailand.</h3>
+<h3 align="center">A passionate Data Scientist from Thailand 🇹🇭</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cliftion-fifa&label=Profile%20views&color=0e75b6&style=flat" alt="cliftion-fifa" /> </p>
-
-- 🌱 I’m currently learning **Python, R, Agular**
-
-- 📫 How to reach me **thanaponcbm@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/12bzZbUq8E2lSsWqx9KnlRX0Y75xX00lI/view?usp=sharing](https://drive.google.com/file/d/12bzZbUq8E2lSsWqx9KnlRX0Y75xX00lI/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/thanapon-chueboonmee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanapon chueboonmee" height="30" width="40" /></a>
-<a href="https://www.facebook.com/thanaponfifa.chueboonmee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanapon fifa chueboonmee" height="30" width="40" /></a>
-<a href="https://www.instagram.com/fifxyz_a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fifxyz_a" height="30" width="40" /></a>
-<a href="https://medium.com/@thanapon-chueboonmee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="thanapon chueboonmee" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cliftion-fifa&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<div align="center">
+  
+  🔭 I'm passionate about **Data Science, Machine Learning, and Analytics**
+  
+  🌱 I'm currently learning **Python, R, Angular**
+  
+  📫 Reach me at **thanaponcbm@gmail.com**
+  
+  📄 Check out my [Resume](https://drive.google.com/file/d/12bzZbUq8E2lSsWqx9KnlRX0Y75xX00lI/view?usp=sharing)
+  
+</div>
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/thanapon-chueboonmee" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://www.facebook.com/thanaponfifa.chueboonmee" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+  </a>
+  <a href="https://www.instagram.com/fifxyz_a" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+  <a href="https://medium.com/@thanapon-chueboonmee" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
+  </a>
+</p>
+
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
+</p>
+
+<h3 align="center">Data Science Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=python&logoColor=white" alt="seaborn" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cliftion-fifa&show_icons=true&theme=radical" alt="github-stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliftion-fifa&theme=radical" alt="github-streak" />
+</div>
