@@ -54,6 +54,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cliftion-fifa&show_icons=true&theme=radical" alt="github-stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliftion-fifa&theme=radical" alt="github-streak" />
-</div>
