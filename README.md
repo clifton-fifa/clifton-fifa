@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thanapon chueboonmee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanapon chueboonmee" height="30" width="40" /></a>
-<a href="https://fb.com/thanapon fifa chueboonmee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanapon fifa chueboonmee" height="30" width="40" /></a>
-<a href="https://instagram.com/fifxyz_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fifxyz_a" height="30" width="40" /></a>
-<a href="https://medium.com/thanapon chueboonmee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="thanapon chueboonmee" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thanapon-chueboonmee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanapon chueboonmee" height="30" width="40" /></a>
+<a href="https://www.facebook.com/thanaponfifa.chueboonmee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanapon fifa chueboonmee" height="30" width="40" /></a>
+<a href="https://www.instagram.com/fifxyz_a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fifxyz_a" height="30" width="40" /></a>
+<a href="https://medium.com/@thanapon-chueboonmee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="thanapon chueboonmee" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
