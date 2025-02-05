@@ -50,7 +50,5 @@
   <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=python&logoColor=white" alt="seaborn" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cliftion-fifa&show_icons=true&theme=radical" alt="github-stats" />
-</div>
+
 
