@@ -35,22 +35,23 @@ class DataScientist:
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/path/to/image.png" alt="analytics" width="64"/>
+<img src="https://raw.githubusercontent.com/cliftion-fifa/portfolio-assets/main/icons/analytics.png" alt="Data Analytics" width="64"/>
 <br><strong>Data Analytics</strong>
 <br>Extracting insights from complex datasets
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/dusk/64/000000/artificial-intelligence.png" alt="ML"/>
+<img src="https://raw.githubusercontent.com/cliftion-fifa/portfolio-assets/main/icons/ai.png" alt="Machine Learning" width="64"/>
 <br><strong>Machine Learning</strong>
 <br>Building predictive models & algorithms
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/dusk/64/000000/statistics.png" alt="Visualization"/>
+<img src="https://raw.githubusercontent.com/cliftion-fifa/portfolio-assets/main/icons/statistics.png" alt="Data Visualization" width="64"/>
 <br><strong>Data Visualization</strong>
 <br>Creating compelling data stories
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🛠️ Tech Stack
