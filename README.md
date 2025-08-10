@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Cliftion Chueboonmee
+# 👋 Hello, I'm Cliftion
 
 <div align="center">
 
@@ -6,8 +6,7 @@
 
 *Transforming data into actionable insights from Bangkok, Thailand 🇹🇭*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=cliftion-fifa&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/cliftion-fifa)
-[![GitHub followers](https://img.shields.io/github/followers/cliftion-fifa?label=Followers&style=flat-square&color=0e75b6)](https://github.com/cliftion-fifa)
+[![Profile Views](https://komarev.com/ghpvc/?username=cliftion-fifa&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/cliftion-fifa)
 
 </div>
 
@@ -33,104 +32,86 @@ class DataScientist:
 
 ## 💼 What I Do
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/dusk/64/000000/analytics.png" alt="Analytics"/>
-<br><strong>Data Analytics</strong>
-<br>Extracting insights from complex datasets
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/dusk/64/000000/artificial-intelligence.png" alt="ML"/>
-<br><strong>Machine Learning</strong>
-<br>Building predictive models & algorithms
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/dusk/64/000000/statistics.png" alt="Visualization"/>
-<br><strong>Data Visualization</strong>
-<br>Creating compelling data stories
-</td>
-</tr>
-</table>
+🔍 **Data Analytics** - Extracting valuable insights from complex datasets  
+🤖 **Machine Learning** - Building predictive models and intelligent algorithms  
+📊 **Data Visualization** - Creating compelling stories through data  
+⚡ **Process Automation** - Streamlining workflows with data-driven solutions  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Data Science & ML
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
+### Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Visualization & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-</p>
+### Visualization Tools
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### Development & Infrastructure
-<p align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
+### Development & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cliftion-fifa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliftion-fifa&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cliftion-fifa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliftion-fifa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliftion-fifa&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliftion-fifa&theme=radical&hide_border=true" alt="GitHub Streak">
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3>🤖 Machine Learning Portfolio</h3>
-<p>Comprehensive ML projects showcasing various algorithms and techniques</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-</p>
-</td>
-<td width="50%">
-<h3>📈 Data Analytics Dashboard</h3>
-<p>Interactive dashboards for business intelligence and data visualization</p>
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
-</td>
-</tr>
-</table>
-</div>
+### 🤖 Machine Learning Portfolio
+**Advanced ML models and algorithms implementation**
+- Predictive Analytics using Python & Scikit-learn
+- Deep Learning with TensorFlow/Keras
+- Time Series Forecasting & Classification
+
+**Tech Stack:** `Python` `Scikit-Learn` `TensorFlow` `Pandas` `NumPy`
+
+### 📈 Data Analytics Dashboard
+**Interactive business intelligence dashboards**
+- Real-time data visualization
+- KPI monitoring and reporting
+- Database integration and ETL processes
+
+**Tech Stack:** `Flask` `Plotly` `MySQL` `Pandas` `JavaScript`
+
+### 🔍 Exploratory Data Analysis
+**Comprehensive data exploration and insights**
+- Statistical analysis and hypothesis testing
+- Data cleaning and preprocessing
+- Advanced visualization techniques
+
+**Tech Stack:** `Python` `R` `Matplotlib` `Seaborn` `Plotly`
+
+---
+
+## 📈 Current Focus
+
+🌱 **Learning:** Angular, Advanced Python techniques, MLOps  
+🔭 **Working on:** Data Science projects, Machine Learning models  
+🎯 **Goal:** Contributing to open-source ML projects and building scalable data solutions  
 
 ---
 
@@ -144,7 +125,7 @@ class DataScientist:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fifxyz_a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanaponcbm@gmail.com)
 
-### 📄 [Download My Resume](https://drive.google.com/file/d/12bzZbUq8E2lSsWqx9KnlRX0Y75xX00lI/view?usp=sharing)
+### 📄 [📋 View My Resume](https://drive.google.com/file/d/12bzZbUq8E2lSsWqx9KnlRX0Y75xX00lI/view?usp=sharing)
 
 </div>
 
@@ -152,8 +133,10 @@ class DataScientist:
 
 <div align="center">
   
-*"Data is the new oil, but analytics is the refinery."* 🛢️➡️⚡
+*"In Data We Trust - Turning Numbers into Stories"* 📊✨
 
-**Thanks for visiting my profile! Feel free to reach out for collaboration opportunities.** ⭐
+**Thanks for visiting! Open for collaboration and new opportunities** 🤝
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
