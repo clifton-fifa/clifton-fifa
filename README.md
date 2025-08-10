@@ -147,7 +147,7 @@ class DataScientist:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fifxyz_a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanaponcbm@gmail.com)
 
-### 📄 [📋 View My Resume](https://drive.google.com/file/d/12bzZbUq8E2lSsWqx9KnlRX0Y75xX00lI/view?usp=sharing)
+### 📄 [📋 View My Resume](https://1drv.ms/b/c/3431dc135f3c89f1/IQQGwRvrv14yQ6TJahEKOlZyAa5gF7Wfz0pbeK21ADoZHmw)
 
 </div>
 
