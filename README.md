@@ -31,21 +31,20 @@ class DataScientist:
 ---
 
 ## 💼 What I Do
-
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/cliftion-fifa/portfolio-assets/main/icons/analytics.png" alt="Data Analytics" width="64"/>
+<img src="https://img.icons8.com/fluency/64/000000/combo-chart.png" alt="Analytics"/>
 <br><strong>Data Analytics</strong>
 <br>Extracting insights from complex datasets
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/cliftion-fifa/portfolio-assets/main/icons/ai.png" alt="Machine Learning" width="64"/>
+<img src="https://img.icons8.com/fluency/64/000000/artificial-intelligence.png" alt="ML"/>
 <br><strong>Machine Learning</strong>
 <br>Building predictive models & algorithms
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/cliftion-fifa/portfolio-assets/main/icons/statistics.png" alt="Data Visualization" width="64"/>
+<img src="https://img.icons8.com/fluency/64/000000/bar-chart.png" alt="Visualization"/>
 <br><strong>Data Visualization</strong>
 <br>Creating compelling data stories
 </td>
