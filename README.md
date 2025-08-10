@@ -32,11 +32,25 @@ class DataScientist:
 
 ## 💼 What I Do
 
-🔍 **Data Analytics** - Extracting valuable insights from complex datasets  
-🤖 **Machine Learning** - Building predictive models and intelligent algorithms  
-📊 **Data Visualization** - Creating compelling stories through data  
-⚡ **Process Automation** - Streamlining workflows with data-driven solutions  
-
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/dusk/64/000000/analytics.png" alt="Analytics"/>
+<br><strong>Data Analytics</strong>
+<br>Extracting insights from complex datasets
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/dusk/64/000000/artificial-intelligence.png" alt="ML"/>
+<br><strong>Machine Learning</strong>
+<br>Building predictive models & algorithms
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/dusk/64/000000/statistics.png" alt="Visualization"/>
+<br><strong>Data Visualization</strong>
+<br>Creating compelling data stories
+</td>
+</tr>
+</table>
 ---
 
 ## 🛠️ Tech Stack
@@ -69,12 +83,20 @@ class DataScientist:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cliftion-fifa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliftion-fifa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliftion-fifa&theme=radical&hide_border=true" alt="GitHub Streak">
+### 🔥 Overall Activity
+<a href="https://github.com/cliftion-fifa">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cliftion-fifa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/cliftion-fifa">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliftion-fifa&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+</a>
+
+### 🔥 Current Streak
+<a href="https://github.com/cliftion-fifa">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliftion-fifa&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</a>
+
 </div>
 
 ---
