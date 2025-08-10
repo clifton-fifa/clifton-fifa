@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Data Scientist | Machine Learning Engineer | Analytics Expert
+### 🚀 Data Scientist | Machine Learning | Analytics 
 
 *Transforming data into actionable insights from Bangkok, Thailand 🇹🇭*
 
