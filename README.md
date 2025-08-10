@@ -35,7 +35,7 @@ class DataScientist:
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/dusk/64/000000/analytics.png" alt="Analytics"/>
+<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/path/to/image.png" alt="analytics" width="64"/>
 <br><strong>Data Analytics</strong>
 <br>Extracting insights from complex datasets
 </td>
@@ -79,7 +79,7 @@ class DataScientist:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
+'''
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -98,7 +98,7 @@ class DataScientist:
 </a>
 
 </div>
-
+'''
 ---
 
 ## 🚀 Featured Projects
