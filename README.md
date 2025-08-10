@@ -79,27 +79,7 @@ class DataScientist:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-'''
-## 📊 GitHub Stats
 
-<div align="center">
-
-### 🔥 Overall Activity
-<a href="https://github.com/cliftion-fifa">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cliftion-fifa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/cliftion-fifa">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliftion-fifa&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-</a>
-
-### 🔥 Current Streak
-<a href="https://github.com/cliftion-fifa">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliftion-fifa&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</a>
-
-</div>
-'''
----
 
 ## 🚀 Featured Projects
 
@@ -141,7 +121,7 @@ class DataScientist:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanapon-chueboonmee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanaponcbm/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fifa001155)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thanaponfifa.chueboonmee)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fifxyz_a)
