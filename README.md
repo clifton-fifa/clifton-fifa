@@ -18,11 +18,11 @@
 class DataScientist:
     def __init__(self):
         self.name = "Thanapon Chueboonmee"
-        self.role = "Data Scientist"
+        self.role = "Data Analyst"
         self.location = "Bangkok, Thailand 🇹🇭"
         self.languages = ["Python", "R", "SQL"]
-        self.current_focus = ["Machine Learning", "Deep Learning", "Data Analytics"]
-        self.learning = ["Angular", "Advanced Python", "MLOps"]
+        self.current_focus = ["Data Analytics","Machine Learning", "Deep Learning"]
+        self.learning = ["Power Automate", "VBA", "Flask"]
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
