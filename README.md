@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Cliftion
+# 👋 Hello, I'm Thanapon
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 ```python
 class DataScientist:
     def __init__(self):
-        self.name = "Cliftion Chueboonmee"
+        self.name = "Thanapon Chueboonmee"
         self.role = "Data Scientist"
         self.location = "Bangkok, Thailand 🇹🇭"
         self.languages = ["Python", "R", "SQL"]
